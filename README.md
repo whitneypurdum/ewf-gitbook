@@ -18,3 +18,5 @@ I can sync
 {iframe}(https://s.icepanel.io/gODPIqAQio/l/-/q8qxi31rvqe/fte2ew4ag4i/1192.7/321.4/0.788)
 
 {% embed url="https://s.icepanel.io/gODPIqAQio/l/-/q8qxi31rvqe/fte2ew4ag4i/1192.7/321.4/0.788" %}
+
+<iframe src="https://www.w3schools.com" title="W3Schools Free Online Web Tutorials"></iframe>
